@@ -1,8 +1,7 @@
-# Hello World! I am Shrishti Singh 🌟  
+# Looking for patterns in the noise. Hello World! I am Shrishti Singh.  
 
 ## Who Am I?  
-Data science enthusiast focusing on and aiming to contribute to Deep Learning and NLP.
-My journey in the world of data has been fueled by a fascination for transforming raw numbers into insightful narratives.
+I am a Data Professional Aspirant with 1.5+ years of experience in data analysis focusing on and aiming to contribute to Deep Learning and NLP. I have a proven track record of  python scripting and producing comprehensive project reports using power query. 
 
 ## Let's Collaborate!  
 I thrive on collaboration and am eager to partner on groundbreaking data science projects. If you're working on Smart Traffic Management System, Recommendation systems, Real - time sentiment analysis on social media, let’s connect and innovate together!  
