@@ -19,11 +19,28 @@ I thrive on collaboration and am eager to partner on groundbreaking data science
 
 
 ## My Tech Arsenal  
-- **Data Visualization**: Power BI, Tableau, MS Excel  
-- **Programming Languages**: Python  
-- **Databases**: SQL  
-- **Libraries/Frameworks**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch  
-- **Tools & Platforms**: Git, VS Code, Jupyter Notebook, Google Colab, VBA, Google Sheets  
+* **Power BI:** [Power BI Website](https://powerbi.microsoft.com/)
+* **Tableau:** [Tableau Website](https://www.tableau.com/)
+* **Microsoft Excel:** [Excel Website](https://www.microsoft.com/en-us/excel)
+* **Python:** [Python Official Website](https://www.python.org/)
+* **SQL:** [SQL Tutorial (W3Schools)](https://www.w3schools.com/sql/)
+* **NumPy:** [NumPy Documentation](https://numpy.org/doc/stable/)
+* **Pandas:** [Pandas Documentation](https://pandas.pydata.org/docs/)
+* **Matplotlib:** [Matplotlib Documentation](https://matplotlib.org/)
+* **Seaborn:** [Seaborn Documentation](https://seaborn.pydata.org/)
+* **Scikit-learn:** [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+* **TensorFlow:** [TensorFlow Website](https://www.tensorflow.org/)
+* **PyTorch:** [PyTorch Website](https://pytorch.org/)
+
+### Development Tools
+* **Git:** [Git Website](https://git-scm.com/)
+* **Visual Studio Code:** [VS Code Website](https://code.visualstudio.com/)
+* **Jupyter Notebook:** [Jupyter Notebook Website](https://jupyter.org/)
+* **Google Colab:** [Google Colab Website](https://colab.research.google.com/)
+
+### Additional Tools
+* **VBA:** [VBA Documentation (Microsoft)](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-objects/vba-objects)
+* **Google Sheets:** [Google Sheets Website](https://docs.google.com/spreadsheets/)
 
   
 
