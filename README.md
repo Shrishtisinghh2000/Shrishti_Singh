@@ -1,4 +1,4 @@
-# Looking for patterns in the noise. Hello World! I am Shrishti Singh.  
+# Looking for patterns in the noise. Hello World! I am Shrishti Singh👋.  
 
 ## Who Am I?  
 I am a Data Professional Aspirant with 1.5+ years of experience in data analysis focusing on and aiming to contribute to Deep Learning and NLP. I have a proven track record of  python scripting and producing comprehensive project reports using power query. 
