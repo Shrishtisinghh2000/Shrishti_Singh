@@ -36,12 +36,7 @@ I thrive on collaboration and am eager to partner on groundbreaking data science
 * **Visual Studio Code:** [VS Code Website](https://code.visualstudio.com/)
 * **Jupyter Notebook:** [Jupyter Notebook Website](https://jupyter.org/)
 * **Google Colab:** [Google Colab Website](https://colab.research.google.com/)
-
-### Additional Tools
-* **VBA:** [VBA Documentation (Microsoft)](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-objects/vba-objects)
-* **Google Sheets:** [Google Sheets Website](https://docs.google.com/spreadsheets/)
-
-  
+ 
 
 ## Connect With Me  
 - 📞 **Phone**: +919289023758  
