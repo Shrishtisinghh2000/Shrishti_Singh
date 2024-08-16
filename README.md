@@ -22,7 +22,7 @@ I thrive on collaboration and am eager to partner on groundbreaking data science
 * **Tableau:** [Tableau Website](https://www.tableau.com/)
 * **Microsoft Excel:** [Excel Website](https://www.microsoft.com/en-us/excel)
 * **Python:** [Python Official Website](https://www.python.org/)
-* **SQL:** [My SQL)](https://www.mysql.com/)
+* **SQL:** [My SQL](https://www.mysql.com/)
 * **NumPy:** [NumPy Documentation](https://numpy.org/doc/stable/)
 * **Pandas:** [Pandas Documentation](https://pandas.pydata.org/docs/)
 * **Matplotlib:** [Matplotlib Documentation](https://matplotlib.org/)
