@@ -30,12 +30,6 @@ I thrive on collaboration and am eager to partner on groundbreaking data science
 * **Scikit-learn:** [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 * **TensorFlow:** [TensorFlow Website](https://www.tensorflow.org/)
 * **PyTorch:** [PyTorch Website](https://pytorch.org/)
-
-### Development Tools
-* **Git:** [Git Website](https://git-scm.com/)
-* **Visual Studio Code:** [VS Code Website](https://code.visualstudio.com/)
-* **Jupyter Notebook:** [Jupyter Notebook Website](https://jupyter.org/)
-* **Google Colab:** [Google Colab Website](https://colab.research.google.com/)
  
 
 ## Connect With Me  
