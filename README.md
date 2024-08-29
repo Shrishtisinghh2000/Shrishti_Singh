@@ -10,9 +10,6 @@ I thrive on collaboration and am eager to partner on groundbreaking data science
 - My experiences with Python libraries, SQL queries and database management 
 - My latest projects that showcase my data storytelling abilities 
 
-## Fun Fact  
-"When I dive into an anime series or a video game, I find parallels in character development and data analysis — both require patience and strategy!"
-
 ## Inspiring Quote  
 *"Data is the new oil, but intelligence is the refinery."*
 
